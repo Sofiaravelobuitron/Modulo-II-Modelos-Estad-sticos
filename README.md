@@ -8,4 +8,4 @@ Aquí se incluyen explicaciones teóricas, ejemplos prácticos y ejercicios resu
 
 - [Espacios de Probabilidad](./Espacio%20de%20Probabilidad.ipynb)
 - [Variables Aleatorias](./Variables%20Aleatorias.ipynb)
-- [Intervalos de Confianza](./Intervalos%20de%20Confianza.ipynb)
+- [Estadística inferencial](./Estad%C3%ADstica%20inferencial.ipynb)
