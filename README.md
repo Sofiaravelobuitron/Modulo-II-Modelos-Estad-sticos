@@ -6,5 +6,6 @@ Aquí se incluyen explicaciones teóricas, ejemplos prácticos y ejercicios resu
 
 ## Notebooks
 
-- 📘 [Variables Aleatorias](./Variables%20Aleatorias.ipynb)
-- 📘 [Intervalos de Confianza](./Intervalos%20de%20Confianza.ipynb)
+- [Espacios de Probabilidad](./Espacio%20de%20Probabilidad.ipynb)
+- [Variables Aleatorias](./Variables%20Aleatorias.ipynb)
+- [Intervalos de Confianza](./Intervalos%20de%20Confianza.ipynb)
